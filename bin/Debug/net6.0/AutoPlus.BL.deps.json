@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AutoPlus.BL/1.0.0": {
+        "dependencies": {
+          "AutoPlus.DL": "1.0.0"
+        },
+        "runtime": {
+          "AutoPlus.BL.dll": {}
+        }
+      },
+      "AutoPlus.DL/1.0.0": {
+        "dependencies": {
+          "AutoPlus.Models": "1.0.0"
+        },
+        "runtime": {
+          "AutoPlus.DL.dll": {}
+        }
+      },
+      "AutoPlus.Models/1.0.0": {
+        "runtime": {
+          "AutoPlus.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AutoPlus.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AutoPlus.DL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AutoPlus.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

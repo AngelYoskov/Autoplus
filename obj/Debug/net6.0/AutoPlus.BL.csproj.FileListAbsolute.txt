@@ -1,0 +1,17 @@
+E:\Visual Studio Projects\AutoPlus\AutoPlus.BL\bin\Debug\net6.0\AutoPlus.BL.deps.json
+E:\Visual Studio Projects\AutoPlus\AutoPlus.BL\bin\Debug\net6.0\AutoPlus.BL.dll
+E:\Visual Studio Projects\AutoPlus\AutoPlus.BL\bin\Debug\net6.0\AutoPlus.BL.pdb
+E:\Visual Studio Projects\AutoPlus\AutoPlus.BL\bin\Debug\net6.0\AutoPlus.DL.dll
+E:\Visual Studio Projects\AutoPlus\AutoPlus.BL\bin\Debug\net6.0\AutoPlus.Models.dll
+E:\Visual Studio Projects\AutoPlus\AutoPlus.BL\bin\Debug\net6.0\AutoPlus.DL.pdb
+E:\Visual Studio Projects\AutoPlus\AutoPlus.BL\bin\Debug\net6.0\AutoPlus.Models.pdb
+E:\Visual Studio Projects\AutoPlus\AutoPlus.BL\obj\Debug\net6.0\AutoPlus.BL.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\AutoPlus\AutoPlus.BL\obj\Debug\net6.0\AutoPlus.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\AutoPlus\AutoPlus.BL\obj\Debug\net6.0\AutoPlus.BL.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\AutoPlus\AutoPlus.BL\obj\Debug\net6.0\AutoPlus.BL.AssemblyInfo.cs
+E:\Visual Studio Projects\AutoPlus\AutoPlus.BL\obj\Debug\net6.0\AutoPlus.BL.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\AutoPlus\AutoPlus.BL\obj\Debug\net6.0\AutoPlus.BL.csproj.CopyComplete
+E:\Visual Studio Projects\AutoPlus\AutoPlus.BL\obj\Debug\net6.0\AutoPlus.BL.dll
+E:\Visual Studio Projects\AutoPlus\AutoPlus.BL\obj\Debug\net6.0\refint\AutoPlus.BL.dll
+E:\Visual Studio Projects\AutoPlus\AutoPlus.BL\obj\Debug\net6.0\AutoPlus.BL.pdb
+E:\Visual Studio Projects\AutoPlus\AutoPlus.BL\obj\Debug\net6.0\ref\AutoPlus.BL.dll
